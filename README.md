@@ -14,7 +14,7 @@ apt update && apt -y install curl
 yum update && yum -y install curl
 ```
 ```
-bash <(curl -L https://raw.githubusercontent.com/TinrLin/script_installation/main/Install.sh)
+bash <(curl -L https://raw.githubusercontent.com/Jackie16888/script_installation/main/Install.sh)
 ```
 # **Supported node types in this script**
 - **TUIC V5**
